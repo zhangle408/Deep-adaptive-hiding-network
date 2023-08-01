@@ -1,0 +1,2 @@
+#python main_DAH.py --imageSize 128 --bs_secret 44 --num_training 1 --num_secret 1 --num_cover 1 --channel_cover 3 --channel_secret 3 --norm 'batch' --epochs 120 --loss 'l2' --beta 0.75 --remark 'main_dah'
+python main_DAH.py --imageSize 128 --bs_secret 44 --num_training 1 --num_secret 1 --num_cover 1 --channel_cover 3 --channel_secret 3 --norm 'batch' --epochs 120 --loss 'l2' --beta 0.75 --remark 'main_dah'
