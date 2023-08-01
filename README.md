@@ -18,7 +18,7 @@ You are able to run the provided demo code.
 If you found our research helpful or influential please consider citing
 
 
-### BibTex
+### BibTeX
 @article{zhang2023deep,
   title={Deep adaptive hiding network for image hiding using attentive frequency extraction and gradual depth extraction},
   author={Zhang, Le and Lu, Yao and Li, Jinxing and Chen, Fanglin and Lu, Guangming and Zhang, David},
