@@ -6,13 +6,13 @@ This code was developed and tested with Python3.6, Pytorch 1.5 and CUDA 10.2 on 
 ## Train DAH-Net on ImageNet datasets
 You are able to run the provided demo code.
 
-Prepare the ImageNet datasets and visualization dataset.
+1. Prepare the ImageNet datasets and visualization dataset.
 
-Change the data path on lines 210-214 of train_dah.sh 
+2. Change the data path on lines 210-214 of train_dah.sh 
 
-(Images for training exist in traindir and valdir, and images for visualization exist in coverdir and secretdir ).
+   (Images for training exist in traindir and valdir, and images for visualization exist in coverdir and secretdir ).
 
-''' sh ./scripts/train_dah.sh '''
+3. ''' sh ./scripts/train_dah.sh '''
 
 ## Citing
 If you found our research helpful or influential please consider citing
