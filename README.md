@@ -8,7 +8,7 @@ You are able to run the provided demo code.
 
 1. Prepare the ImageNet datasets and visualization dataset.
 
-2. Change the data path on lines 210-214 of train_dah.sh 
+2. Change the data path on lines 210-214 of train_dah.py.
 
    (Images for training exist in traindir and valdir, and images for visualization exist in coverdir and secretdir ).
 
