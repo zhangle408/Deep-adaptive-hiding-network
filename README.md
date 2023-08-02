@@ -2,6 +2,7 @@
 Deep adaptive hiding network for image hiding using attentive frequency extraction and gradual depth extraction
 
  ![GDE.jpg](fig/GDE.jpg) 
+
  ![AFE.jpg](fig/AFE.jpg) 
 ## Requirements
 This code was developed and tested with Python3.6, Pytorch 1.5 and CUDA 10.2 on Ubuntu 18.04.5.
