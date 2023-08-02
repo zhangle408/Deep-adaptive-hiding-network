@@ -15,7 +15,7 @@ You are able to run the provided demo code.
 
    (Images for training exist in traindir and valdir, and images for visualization exist in coverdir and secretdir ).
 
-3. ''' sh ./scripts/train_dah.sh '''
+3.```sh ./scripts/train_dah.sh ```
 
 ## Citing
 If you found our research helpful or influential please consider citing
