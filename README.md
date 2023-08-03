@@ -1,5 +1,5 @@
 # Deep-adaptive-hiding-network
-Deep adaptive hiding network for image hiding using attentive frequency extraction and gradual depth extraction
+Official PyTorch implementation of "Deep adaptive hiding network for image hiding using attentive frequency extraction and gradual depth extraction"
 
  ![GDE.jpg](fig/GDE.jpg) 
 
@@ -18,7 +18,7 @@ You are able to run the provided demo code.
 
 3. ```sh ./scripts/train_dah.sh ```
 
-## Citing
+## Citation
 If you found our research helpful or influential please consider citing
 
 
